@@ -1,6 +1,9 @@
 #  Mean and variance of a discrete  distribution
+## DEVELOPED BY : DILLI BABU K
+## REG NO : 212224110015
+## DEPT : BE CSE(IOT)
 
-# Date:04/03/2025
+## DATE : 04/03/2025
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
@@ -48,11 +51,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
-```
-Developed By:DILLI BABU K
-Reg No:212224110015
-Dept:BE CSE(IOT)
-```
 ```
 import numpy as np
 L=[int(i) for i in input().split()]
